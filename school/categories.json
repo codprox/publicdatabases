@@ -1,9 +1,15 @@
 [
-	{"id":1,"icon":"","rang":1,"title": "Pré-primaires"},
-	{"id":2,"icon":"","rang":2,"title": "Primaires"},
-	{"id":3,"icon":"","rang":3,"title": "Collègues"},
-	{"id":4,"icon":"","rang":4,"title": "Lycées"},
-	{"id":5,"icon":"","rang":5,"title": "Universités"},
-	{"id":6,"icon":"","rang":6,"title": "Ecoles Supérieures"},
-	{"id":7,"icon":"","rang":7,"title": "Institutions Educatifs"}
+	{"id":1, "title" : "Crèche"},
+	{"id":2, "title" : "Ecole primaire publique"},
+	{"id":3, "title" : "Ecole primaire privée"},
+	{"id":4, "title" : "Collège public"},
+	{"id":5, "title" : "Collège privé"},
+	{"id":6, "title" : "Lycée public"},
+	{"id":7, "title" : "Lycée privé"},
+	{"id":8, "title" : "Ecole universitaire professionnelle"},
+	{"id":9, "title" : "Université"},
+	{"id":10, "title" : "Centre professionnel"},
+	{"id":11, "title" : "Centre linguistique"},
+	{"id":12, "title" : "Bibliothèques"},
+	{"id":13, "title" : "Institut éducatif"}
 ] 
